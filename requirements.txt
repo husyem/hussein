@@ -1,0 +1,9 @@
+Flask==3.0.2
+pypandoc==1.13
+google-generativeai
+Pillow
+python-dotenv
+streamlit
+streamlit-quill
+markdown
+markdownify
